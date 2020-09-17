@@ -12,11 +12,11 @@ I'm an enthusiastic and detail-oriented Junior Frontend Software Engineer seekin
 
 2. ### Seafood Processor Silver Bay Seafood (Seattle) 6/2019 – 9/2019
 
- The company is a leader in the food industry. It was seasonal work in Alaska. I got great experience in communication with people from all over the world. This work taught me not to be afraid of hard work and made me stress-resistant. I improved my English and visited the USA(what's was my dream).
+ The company is a leader in the food industry. It was seasonal work in Alaska. I got great experience in communication with people from all over the world. This work taught me not to be afraid of hard work and made me stress-resistant. I improved my English and visited the USA(that was my dream).
 
 3. ### Sales Manager Self Employed (Zaporizhzhya) 9/2018-02/2020
 
- Dropshipping product sales, work with customers and suppliers. Sales of goods on free boards such as OLX. Worked with more than 150 accounts. I made more than 100 sales per month. I used Trello for recording clients. Entered partnerships with 5 suppliers. I learned to find a way out of controversial situations, which is very useful in any field of activity.
+ Dropshipping product sales, work with customers and suppliers. Sales of goods on free boards such as OLX. I worked with more than 150 accounts. I made more than 100 sales per month. I used Trello for recording clients andntered partnerships with 5 suppliers. I learned to find a way out of controversial situations, which is very useful in any field of activity.
 
 4. ### Sales Manager OBOLON (Zaporizhzhya) 7/2014 - 2/2018
 
@@ -24,8 +24,11 @@ I'm an enthusiastic and detail-oriented Junior Frontend Software Engineer seekin
 
 ## SKILLS 
 
- * HTML/CSS3  ⭐⭐⭐
- * JavaScript ⭐⭐
+ * HTML/CSS3 
+ * JavaScript 
+ * Git 
+ * SCSS
+ * Bootstrap 
 
 ## Education Zaporizhia State Engineering Academy 2012– 2017 
 
@@ -38,7 +41,7 @@ I'm an enthusiastic and detail-oriented Junior Frontend Software Engineer seekin
  3. **English classes:** American English Center 1.2019/5.2019 (3 levels)(Zaporizhzhya) (Offline)
 
 ## English
- 1. **B1** (I had some experience in communication with Native speakers because I was working in the USA for 3 months.  I got  English courses at the  English School of Canada where taught native speakers from Canada)
+ 1. **B1** (I had some experience in communication with native speakers because I was working in the USA for 3 months.  I took English courses at the English School of Canada. All teachers were native speakers from Canada)
 
 
 
