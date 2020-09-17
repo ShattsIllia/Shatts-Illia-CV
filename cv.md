@@ -41,7 +41,7 @@ I'm an enthusiastic and detail-oriented Junior Frontend Software Engineer seekin
  3. **English classes:** American English Center 1.2019/5.2019 (3 levels)(Zaporizhzhya) (Offline)
 
 ## English
- 1. **B1** (I had some experience in communication with native speakers because I was working in the USA for 3 months.  I took English courses at the English School of Canada. All teachers were native speakers from Canada)
+  **B1** (I had some experience in communication with native speakers because I was working in the USA for 3 months.  I took English courses at the English School of Canada. All teachers were native speakers from Canada)
 
 
 
